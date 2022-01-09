@@ -1,4 +1,4 @@
-name: 'Workflow Manager'
+name: 'Workflow Manager Test RR'
 description: 'Github PR Lifecycle Manager'
 author: 'Teammates'
 inputs:
